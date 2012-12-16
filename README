@@ -1,0 +1,6 @@
+
+To build jrubydroid on android sdk:
+
+  cp ../jruby-1.2.0RC1/lib/jruby.jar libs/
+  ant release
+

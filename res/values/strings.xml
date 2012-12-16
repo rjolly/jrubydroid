@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instructions">In the terminal emulator:\n  dalvikvm -classpath /data/app/org.jruby.android-1.apk org.jruby.Main -X-C [script.rb]\n\nSoftware needed:\n  jackpal.androidterm"</string>
+    <string name="app_name">JRubydroid</string>
+</resources>
